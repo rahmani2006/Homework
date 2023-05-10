@@ -1,0 +1,36 @@
+
+body{
+    width: 500px;
+    margin:auto !important;
+    text-align: center;
+}
+
+.button {
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+    border:solid 5px black;
+    margin: 10px auto 10px;
+}
+
+p,h2{
+    font-family: "Press Start 2P", cursive;
+    font-size: 20px;
+    color: white;
+}
+
+#red {
+    background-color: red;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#green {
+    background-color: green;
+}
+
+#yellow {
+    background-color: yellow;
+}
